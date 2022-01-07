@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**Nirancode4f/Nirancode4f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## KhaangNguyeen - Passionate Fullstask-Developer ✌
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Studying at FPT university (2021-2025) 😜
+
+
+-👀 Pronouns: English, Japanese and Vietnamese (sure 😂)
+-👌 My Maxim : I'm not arrogant. But for me nothing is impossible
+-💵 Experience :  I have experience working with many projects about web service like reactjs, nodejs, python, ...
+-📞 Contact Me : https://www.facebook.com/niraitoo 
+
+
+
+# Finally : I Love Stupid Cat
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
