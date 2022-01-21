@@ -8,7 +8,7 @@
 
 1. 👀 Pronouns: English, Japanese and Vietnamese (sure 😂)
 2. 👌 My Maxim : I'm not arrogant. But for me nothing is impossible
-3. 💵 Experience :  I have experience working with many projects about web service like reactjs, nodejs, python, ...
+3. 💵 Experience : reactjs, nodejs, python server, ...
 4. 📞 Contact Me : https://www.facebook.com/niraitoo 
 
 
