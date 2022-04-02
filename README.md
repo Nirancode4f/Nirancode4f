@@ -1,6 +1,6 @@
 
 
-### KhaangNguyeen - Passionate Fullstask-Developer ✌
+###                     KhaangNguyeen - Passionate Fullstask-Developer ✌
 
 
 ## Studying at FPT university (2021-2025) 😜
