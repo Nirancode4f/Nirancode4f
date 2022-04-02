@@ -3,7 +3,7 @@
 ### KhaangNguyeen - Passionate Fullstask-Developer ✌
 
 
-## Studying at FPT university (2021-2024) 😜
+## Studying at FPT university (2021-2025) 😜
 
 
 1. 👀 Pronouns: English, Japanese and Vietnamese (sure 😂)
