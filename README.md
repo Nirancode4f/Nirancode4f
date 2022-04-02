@@ -1,6 +1,6 @@
 
 
-###                     KhaangNguyeen - Passionate Fullstask-Developer ✌
+#       KhaangNguyeen - Passionate Fullstask-Developer ✌
 
 
 ## Studying at FPT university (2021-2025) 😜
@@ -13,7 +13,7 @@
 
 
 
-# Finally : I Love Stupid Cat
+## Finally : I Love Stupid Cat
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<img src=”https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt=”khaangnguyeen” />
+
