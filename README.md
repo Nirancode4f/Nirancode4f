@@ -12,8 +12,5 @@
 4. 📞 Contact Me : https://www.facebook.com/niraitoo 
 
 
-
-## Finally : I Love Stupid Cat
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![khengyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=khengyun&show_icons=true&theme=aura)
 
